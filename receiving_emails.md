@@ -13,7 +13,9 @@ In this tutorial we will use sendgrid. So here are the steps you will need to do
 ### Setup a Inbound Parse
 
 For this you will need to have an authenticated domain to use for this purpose.
-Just add the domain and the url of the endpoint which will receive your request.
+Just add the domain and the url of the endpoint which will receive your request.[Link](https://sendgrid.com/docs/for-developers/parsing-email/setting-up-the-inbound-parse-webhook/).
+
+Setup the domain as a MX record pointing to `mx.sendgrid.net`(Case youre using sendgrid).
 
 ### Setup Griddler
 
