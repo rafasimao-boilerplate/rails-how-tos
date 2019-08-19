@@ -20,4 +20,5 @@ User.where('preferences @> ?', {newsletter: true}.to_json)
 ```
 
 [usando-postgresql-e-jsonb-no-rails](https://nandovieira.com.br/usando-postgresql-e-jsonb-no-rails)
+
 [how-to-query-jsonb-beginner-sheet-cheat](https://hackernoon.com/how-to-query-jsonb-beginner-sheet-cheat-4da3aa5082a3)
