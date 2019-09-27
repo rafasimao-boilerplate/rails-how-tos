@@ -6,3 +6,5 @@
 - **PessimisticProduct** can profit as well in a concurrent setup
 
 Reference [link](https://blog.simplificator.com/2015/01/23/incrementdecrement-counters-in-activerecord/)
+
+Increment api reference [link](https://refactoring.guru/design-patterns/facade)
