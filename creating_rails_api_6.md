@@ -57,3 +57,4 @@ Some other gems you may want to add to your repository:
 - postgres
 - pry
 - rspec
+- faker
