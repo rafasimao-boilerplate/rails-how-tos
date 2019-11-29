@@ -56,5 +56,12 @@ Some other gems you may want to add to your repository:
 
 - postgres
 - pry
+- timecop
+
+To run your tests:
 - rspec
 - faker
+- database_cleaner
+- shoulda-matchers
+- simplecov
+- fuubar
