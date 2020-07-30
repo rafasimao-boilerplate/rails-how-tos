@@ -24,3 +24,5 @@ User.where('preferences @> ?', {newsletter: true}.to_json)
 [how-to-query-jsonb-beginner-sheet-cheat](https://hackernoon.com/how-to-query-jsonb-beginner-sheet-cheat-4da3aa5082a3)
 
 [useful postgresql queries](https://gist.github.com/rgreenjr/3637525)
+
+[making queries from subqueries](http://joshfrankel.me/blog/constructing-a-sql-select-from-subquery-in-activerecord/)
