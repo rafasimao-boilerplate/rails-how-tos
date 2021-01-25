@@ -26,3 +26,5 @@ User.where('preferences @> ?', {newsletter: true}.to_json)
 [useful postgresql queries](https://gist.github.com/rgreenjr/3637525)
 
 [making queries from subqueries](http://joshfrankel.me/blog/constructing-a-sql-select-from-subquery-in-activerecord/)
+
+[good practices for creating enums through rails migrations](https://naturaily.com/blog/ruby-on-rails-enum)
